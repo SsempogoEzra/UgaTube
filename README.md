@@ -4,5 +4,5 @@ This is the core code of the MVP landing page of UGATUBE streaming platform usin
 Its design is greatlly insciredlby the Netflix app  
 
 
-## Checkout the Live [Demo]
+## Checkout the Live [Demo](https://ssempogoezra.github.io/UgaTube/)
 
